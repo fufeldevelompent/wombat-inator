@@ -1,0 +1,6 @@
+2026-07-30 09:12:01 INFO  starting...
+2026-07-30 09:12:01 INFO  loading configuration... 3 values found
+2026-07-30 09:12:01 WARN  configuration value 'evil_plan' empty, using default
+2026-07-30 09:12:02 INFO  inator armed. pending: yes
+2026-07-30 09:12:02 ERROR module 'perry' returned None (expected)
+2026-07-30 09:12:03 INFO  standby... waiting for signal

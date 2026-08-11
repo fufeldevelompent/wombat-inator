@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+build/
+dist/
+target/
+.vs/
+bin/
+obj/
+*.o
+*.exe
+.DS_Store
+*.swp
+# secrets NEVER go here (see .env)  <-- the .env stays tracked on purpose

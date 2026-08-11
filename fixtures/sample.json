@@ -1,0 +1,7 @@
+{
+  "sample": true,
+  "iteration": 1,
+  "generated": "2026-07-31T09:00:00Z",
+  "tags": ["demo", "fixture", "noise"],
+  "nested": { "level": 2, "deeper": { "level": 3, "value": "soon" } }
+}
